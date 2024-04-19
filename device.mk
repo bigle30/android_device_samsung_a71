@@ -155,6 +155,8 @@ PRODUCT_PACKAGES += \
     android.hardware.drm@1.3.vendor \
 
 # Fastbootd
+TARGET_BOARD_FASTBOOT_INFO_FILE := $(DEVICE_PATH)/fastboot-info.txt
+
 PRODUCT_PACKAGES += \
     fastbootd \
 
