@@ -625,6 +625,10 @@ vendor/firmware/CAMERA_ICP.elf
 vendor/firmware/Data.msc
 vendor/firmware/dax_param.bin
 
+# Camera legacy (prebuilt) - From A13
+vendor/lib/android.hardware.camera.provider@2.4-legacy.so|be834c5f1bd528e870ca6f8feaae1f04494e686f
+vendor/lib64/android.hardware.camera.provider@2.4-legacy.so|483e2fb67d2356ecc415a8a4c1f64ef32e904323
+
 # Charger
 vendor/bin/hvdcp_opti
 
