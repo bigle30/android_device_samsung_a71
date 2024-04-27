@@ -17,6 +17,14 @@ PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-A715
 PRODUCT_MANUFACTURER := samsung
 
+# Matrixx
+MATRIXX_BUILD_TYPE := Official
+MATRIXX_MAINTAINER := Bigle30
+MATRIXX_CHIPSET := SM7150
+MATRIXX_BATTERY := 4500mAh
+MATRIXX_DISPLAY := 1080 x 2400
+WITH_GMS := false
+
 # Use the latest approved GMS identifiers
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
