@@ -24,6 +24,7 @@ MATRIXX_CHIPSET := SM7150
 MATRIXX_BATTERY := 4500mAh
 MATRIXX_DISPLAY := 1080 x 2400
 WITH_GMS := false
+TARGET_ENABLE_BLUR := true
 
 # Use the latest approved GMS identifiers
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
